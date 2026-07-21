@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0243_000.yaml, hash: 'sha256:415280533d86b368db67f6ac4f1cdc93cc65908cca43ff396eced9099fe7fa82'}
+  - {seq: 0, filename: KR6q0243_000.yaml, hash: 'sha256:f5770cd0c718eb9f64815689e9aef435d40adcb3c65068446da042ccf592e2b0'}
   - {seq: 1, filename: KR6q0243_001.yaml, hash: 'sha256:a3d6ca2239910446d19433f51c1f620ce126e43e65d99da02aac35720b4a886a'}
   - {seq: 2, filename: KR6q0243_002.yaml, hash: 'sha256:8e5fb83104cdea14ec1647a038ea1feb3b47e69a5fbdd45e70d105629483a370'}
   - {seq: 3, filename: KR6q0243_003.yaml, hash: 'sha256:2b65bcc9947387ce2c0363c3e9b5b639c53af3cc647186cb4ff8b4dfd2997bb1'}
@@ -63,7 +63,7 @@ assets:
   - {seq: 39, filename: KR6q0243_039.yaml, hash: 'sha256:40e518603228ad76091a428b5a13e1d3e52401fd422e44f59f5c930005c6e0ce'}
   - {seq: 40, filename: KR6q0243_040.yaml, hash: 'sha256:ef5d7726111ffa0bbc7adb6069797acf98bdeaede87283fc2d476cdc5b8c9c09'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0243_000.markers.yaml, hash: 'sha256:d12350f4a566af3ed7d48daab3ac83f877c41d8b091b99a8e68e92a903f659cc'}
+  - {seq: 0, role: markers, filename: assets/KR6q0243_000.markers.yaml, hash: 'sha256:80a0cb9ad3af05330188fa8d16fb7245330fe9f36c9e865e854393f6db061b05'}
   - {seq: 1, role: markers, filename: assets/KR6q0243_001.markers.yaml, hash: 'sha256:526b4e5287ba77bcdc36e3447fc1dbf74f22f5c20827ab14f100f57f91a44c30'}
   - {seq: 2, role: markers, filename: assets/KR6q0243_002.markers.yaml, hash: 'sha256:9fa948bc7017c22eb3a87ba76ccd6987235d828186a0d794ea81c8442fa76b83'}
   - {seq: 3, role: markers, filename: assets/KR6q0243_003.markers.yaml, hash: 'sha256:f78fb8a42e6aba518e43f0c656279dc61e626849e4eab43c3c5c9d4825189e81'}
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0243_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1295-A 禪宗頌古聯珠通集序
@@ -119,7 +119,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0243_X_000-mulu-2
     span:
-    - front
+    - body
     - 415
     - 415
   label: No. 1295-B 禪宗頌古聯珠通集序
@@ -129,7 +129,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0243_X_000-mulu-3
     span:
-    - front
+    - body
     - 955
     - 955
   label: No. 1295-C 重刻禪宗頌古聯珠通集序
@@ -139,7 +139,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0243_X_000-mulu-4
     span:
-    - front
+    - body
     - 1138
     - 1138
   label: No. 1295-D 禪宗頌古聯珠舊序
@@ -149,7 +149,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0243_X_000-mulu-5
     span:
-    - front
+    - body
     - 1391
     - 1391
   label: No. 1295-E 禪宗頌古聯珠舊集本序
@@ -1265,7 +1265,7 @@ table_of_contents:
   label: No. 1295-H
   type: mulu
   level: 1
-hash: sha256:528d60fdc8e9ab2c28a3bf70d0e2eb6808a36f6017579ddf5c72bcd14e59d61b
+hash: sha256:31c0bdc752d3d28aa7822b1621019712eaee53a6afb45315ed156f8b2c80c9c5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
